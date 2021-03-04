@@ -1,10 +1,10 @@
 [
   {
     "title": "Lovelace Academy",
-    "blurb": "The Cardano Revolution. Why you should build on Cardano."
+    "blurb": "The Cardano Revolution. Why you should build on Cardano.",
     "url":   "https://www.youtube.com/watch?v=sM0_V53_kGo",
     "language": "en",
-    "timestamp": "1614803400",
-    "duration": "3600"
+    "timestamp": 1614803400,
+    "duration": 3600
   }
 ]
