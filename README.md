@@ -15,7 +15,7 @@ Entries look like this:
 ```json
 {
   "title": "Lovelace Academy",
-  "blurb": "The Cardano Revolution. Why you should build on Cardano."
+  "blurb": "The Cardano Revolution. Why you should build on Cardano.",
   "url":   "https://www.youtube.com/watch?v=sM0_V53_kGo",
   "language": "en",
   "timestamp": "1614803400",
@@ -38,19 +38,19 @@ JSON requires you to separate list items with a comma `,` but blows up if you ad
 
 ```json
 [{
-  "title": "Lovelace Academy",
-  "blurb": "The Cardano Revolution. Why you should build on Cardano."
+  "title": "Event1",
+  "blurb": "The Cardano Revolution....",
   "url":   "https://www.youtube.com/watch?v=sM0_V53_kGo",
   "language": "en",
   "timestamp": "1614803400",
   "duration": "3600"
 },
 {
-  "title": "Lovelace Academy",
-  "blurb": "The Cardano Revolution. Why you should build on Cardano."
+  "title": "Some Cool Title!",
+  "blurb": "How many Xs....",
   "url":   "https://www.youtube.com/watch?v=sM0_V53_kGo",
   "language": "en",
-  "timestamp": "1614803400",
+  "timestamp": "1614803401",
   "duration": "3600"
 }]
 ```
