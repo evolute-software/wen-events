@@ -1,4 +1,5 @@
-# wen-events
+# wen-events 
+[![JSON Valid?](https://github.com/SpectrumPool/wen-events/actions/workflows/validate.yml/badge.svg)](https://github.com/SpectrumPool/wen-events/actions/workflows/validate.yml)
 
 A community Moderated list of events displayed on https://wen.pm
 
