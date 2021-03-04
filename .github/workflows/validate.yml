@@ -12,3 +12,8 @@ jobs:
         env:
           INPUT_SCHEMA: /schemas/streams.json
           INPUT_JSONS: /streams.json
+      - name: Push to Production
+        uses: ad-m/github-push-action@master
+        with:
+          #github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: production
