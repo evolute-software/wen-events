@@ -6,5 +6,21 @@
     "language": "en",
     "timestamp": 1614803400,
     "duration": 3600
+  },
+  {
+    "title": "Project Catalyst weekly town hall",
+    "blurb": "A report on the development of the 4th round of community funded projects for Cardano",
+    "url": "https://www.crowdcast.io/e/fund4-5/register",
+    "language": "en",
+    "timestamp": 1616004000,
+    "duartion": 3600
+  },
+  {
+    "title": "Cardano 360 webcast",
+    "blurb": "All the freshest news & feature content from across the Cardano ecosystem, delivered by Tim Harrison & Aparna Jue",
+    "url": "https://www.crowdcast.io/e/hbe6af88",
+    "language": "en",
+    "timestamp": 1616693400,
+    "duration": 7200
   }
 ]
