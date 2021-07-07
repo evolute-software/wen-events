@@ -1,21 +1,5 @@
 [
   {
-    "title": "Lovelace Academy",
-    "blurb": "The Cardano Revolution. Why you should build on Cardano.",
-    "url":   "https://www.youtube.com/watch?v=sM0_V53_kGo",
-    "language": "en",
-    "timestamp": 1614803400,
-    "duration": 3600
-  },
-  {
-    "title": "Cardano Trading Kicking Off On Coinbase Pro",
-    "blurb": "Cardano With Paul: Live stream today to watch as ADA trading starts on Coinbase pro",
-    "url": "https://www.youtube.com/watch?v=r-s8w1xuFiA",
-    "language": "en",
-    "timestamp": 1616083200,
-    "duration": 7200
-  },
-  {
     "title": "Project Catalyst weekly town hall",
     "blurb": "A report on the development of the 4th round of community funded projects for Cardano",
     "url": "https://www.crowdcast.io/e/fund4-6/register",
@@ -32,35 +16,11 @@
     "duration": 7200
   },
   {
-    "title": "EP004 Non Fungible Tokens on Cardano & Interview with Patrick Tobler from NFT-Maker.io",
-    "blurb": "This episode we'll explore the NFT craze that has hit the Cardano Blockchain. We have a look at our own NFT project and talk to the creator of NFT-maker.io, Patrick Tobler, and get some insights from him in regards to NFTs and how is website makes creating NFTs so easy that a 4 year old can create them.",
-    "url": "https://open.spotify.com/show/11FpPiHPzivZoSOTgVcfgT",
+    "title": "stellarhood main sale",
+    "blurb": "Join the #StellarSociety and discover real existing solar systems! Only the FIRST discoverers of a solar system will be named on the interactive http://map.stellarhood.com!",
+    "url": "https://stellarhood.com/",
     "language": "en",
-    "timestamp": 1618909200,
-    "duration": 1800
-  },
-  {
-    "title": "Cardano Warriors - NFT Pré-Sale",
-    "blurb": "",
-    "url": "https://www.cardanowarriors.io",
-    "language": "en",
-    "timestamp": 1619963999,
-    "duration": 1800
-  },
-  {
-    "title": "CardanoSpace launch",
-    "blurb": "The sale of lots on cardanospace.com goes live",
-    "url": "https://cardanospace.com",
-    "language": "en",
-    "timestamp": 1621011600,
-    "duration": 10800
-  },
-  {
-    "title": "Unsigs drop #1",
-    "blurb": "The first completely on-chain generated Cardano NFT launches its first drop",
-    "url": "https://www.unsigs.com/",
-    "language": "en",
-    "timestamp": 1622246399,
-    "duration": 10800
+    "timestamp": 1625702401,
+    "duration": 14400
   }
 ]
